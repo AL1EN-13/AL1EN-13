@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AL1EN
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning some langs.
